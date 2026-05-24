@@ -95,7 +95,6 @@ const iqra = {
 ```
 📖  DSA — Strengthening problem-solving foundations
 🗄️  MongoDB — Deep-diving into aggregation & indexing
-🏗️  System Design — Learning to architect scalable apps
 ⚙️  Backend Dev — Building robust REST APIs with Node/Express
 ```
 
